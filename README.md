@@ -109,12 +109,17 @@ Home office,
 
 - The symbols represent:
 
-Symbol	            Device
-Semi-circle near =>  wall	Wall switch
-Double semi-circle => 	Power outlet
-Lighting symbol => 	Ceiling light
-Square boxes => Junction boxes
-Green lines => Electrical wiring paths
+- Symbol	            Device
+- Semi-circle near wall =>  	Wall socket switch
+- Double semi-circle => 	Power outlet
+- Lighting symbol => 	Ceiling light
+- Square boxes => Junction boxes
+- Green lines => Electrical wiring paths
+## some used symbols 
+<img width="473" height="644" alt="image" src="https://github.com/user-attachments/assets/76265b9f-6add-4ae5-a6bc-3a7eae792c14" />
+
+  
+- arrows in wiring diagrams is to show the direction in which the wiring continues...indicates that the cable runs from the power source toward the electrical device.
 
 
 - The drawing represents the electrical wiring layout of a multi-room building floor plan. It illustrates how power is distributed from a central distribution point to different electrical loads such as lighting fixtures, switches, and power outlets.
