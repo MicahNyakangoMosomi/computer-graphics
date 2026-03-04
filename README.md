@@ -71,3 +71,34 @@ Home office,
 - Unnecessary bends are minimized
 - Routes are aligned with: Walls, Door frames...
 - This reduces cable stress and installation errors
+
+  ## Conduit Sizes and Purpose
+
+- Different conduit diameters are used based on load:
+
+- 16 mm conduits Lighting circuits => Low-current wiring
+
+- 20 mm conduits, Socket outlets => Higher current demand circuits
+
+- 32 mm conduit, Main feeder => Carries multiple circuits from the distribution board
+
+- This sizing prevents overheating and allows future upgrades.
+
+## Central Junction Point
+
+- A junction point is used to split circuits
+
+- Enables:
+  - Clean branching to different rooms
+  - Reduced wall chasing
+  - Easier maintenance
+
+Prevents overloading a single conduit path
+
+## Vertical and Horizontal Drops
+
+- Vertical drops are used for:
+  - Switches
+  - Socket outlets
+- Horizontal runs are kept at uniform levels
+- This follows standard electrical installation practice and improves safety
