@@ -105,6 +105,18 @@ Home office,
 
 # Electrical Connectivity and Structural Layout Analysis
 <img width="855" height="543" alt="image" src="https://github.com/user-attachments/assets/ede3e5ec-88c6-4c4e-91af-432e411b6495" />
+<img width="516" height="325" alt="image" src="https://github.com/user-attachments/assets/244b11fe-241b-4cea-a6a3-54d5c9e54360" />
+
+- The symbols represent:
+
+Symbol	            Device
+Semi-circle near =>  wall	Wall switch
+Double semi-circle => 	Power outlet
+Lighting symbol => 	Ceiling light
+Square boxes => Junction boxes
+Green lines => Electrical wiring paths
+
+
 - The drawing represents the electrical wiring layout of a multi-room building floor plan. It illustrates how power is distributed from a central distribution point to different electrical loads such as lighting fixtures, switches, and power outlets.
 - Key elements visible in the drawing include:
   - Walls and structural partitions (red lines)
@@ -114,3 +126,18 @@ Home office,
   - power outlets / sockets
   - Conduit routing paths (green lines)
   - Electrical panel / distribution node
+ 
+  ## Conduit Routing Logic
+The green lines represent conduit paths for electrical wiring.
+
+  ## Lighting Circuit Connectivity
+- Lighting points are represented by circular symbols connected by green lines.
+
+### Control Logic
+- Each lighting fixture is connected to a switch located near the door of the respective room.
+- Typical sequence:
+- Switch → Conduit → Lighting Fixture
+- Benefits:
+  - User can control lights immediately upon entering the room
+  - Minimizes wiring complexity.
+  - Improves usability.
