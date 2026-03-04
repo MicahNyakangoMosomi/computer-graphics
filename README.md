@@ -41,6 +41,33 @@ This reduces pipe length and construction costs
 - Two bathrooms are provided:
 - One near the master bedroom
 - One near the living room and kitchen
-- Wet areas are clustered together,This improves:
-Plumbing efficiency
-Maintenance accessibility
+- Wet areas are clustered together,This improves: Plumbing efficiency, Maintenance accessibility
+
+## Extra Room & Store
+ The extra room offers flexibility:
+Study,
+Guest room,
+Home office,
+- The store room provides essential storage space
+- Helps maintain a clutter-free living environment
+
+# Electrical Conduit and Wiring Layout for Residential Floor Plan
+<img width="683" height="470" alt="image" src="https://github.com/user-attachments/assets/7131cc88-5965-4505-82d6-3899c619bbea" />
+
+- A coordinated electrical distribution design ensuring safety, efficiency, and ease of maintenance.
+## Drawing Overview
+- This drawing represents the electrical conduit routing plan
+- Green lines indicate electrical conduits
+- The layout shows how power is distributed from the distribution point to various rooms
+- Conduit sizes are clearly labeled for construction accuracy
+
+## Electrical Distribution Concept
+- Power originates from a central distribution point
+- Circuits are routed radially to different rooms
+- This approach:Simplifies troubleshooting, Improves load management, Enhances safety
+
+## Conduit Routing Strategy
+- Conduits follow straight, logical paths
+- Unnecessary bends are minimized
+- Routes are aligned with: Walls, Door frames...
+- This reduces cable stress and installation errors
