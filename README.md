@@ -1,6 +1,6 @@
 # Three-Bedroom Residential Floor Plan with Central Living Core
 <img width="938" height="633" alt="image" src="https://github.com/user-attachments/assets/e31755d6-488d-4a0d-8f16-228ab133f706" />
-
+- [Column points or structural nodes (yellow blocks).]
 ## Design Overview:
 The house is divided into three main zones:
 ### Public Zone
@@ -27,21 +27,26 @@ This placement prevents visitors from passing through private areas
 Bathroom, 
 Plumbing fixtures
 - Plumbing fixtures Includes:
-Sink
-Floor Drain (FD)
+  - Sink
+  - Floor Drain (FD)
 This reduces pipe length and construction costs
 
 ## Bedrooms Layout
 - The house contains three bedrooms
 - Each bedroom is accessed via a short corridor
 - Bedrooms are positioned away from the main entrance
--This enhances:Privacy, Noise control,Comfort for occupants
+-This enhances:
+  - Privacy,
+  - Noise control,
+  - Comfort for occupants
 
 ## Bathroom Arrangement
 - Two bathrooms are provided:
 - One near the master bedroom
 - One near the living room and kitchen
-- Wet areas are clustered together,This improves: Plumbing efficiency, Maintenance accessibility
+- Wet areas are clustered together,This improves:
+  - Plumbing efficiency,
+  - Maintenance accessibility
 
 ## Extra Room & Store
  The extra room offers flexibility:
@@ -64,7 +69,10 @@ Home office,
 ## Electrical Distribution Concept
 - Power originates from a central distribution point
 - Circuits are routed radially to different rooms
-- This approach:Simplifies troubleshooting, Improves load management, Enhances safety
+- This approach:
+  - Simplifies troubleshooting,
+  - Improves load management,
+  - Enhances safety
 
 ## Conduit Routing Strategy
 - Conduits follow straight, logical paths
@@ -73,27 +81,19 @@ Home office,
 - This reduces cable stress and installation errors
 
   ## Conduit Sizes and Purpose
-
 - Different conduit diameters are used based on load:
-
 - 16 mm conduits Lighting circuits => Low-current wiring
-
 - 20 mm conduits, Socket outlets => Higher current demand circuits
-
 - 32 mm conduit, Main feeder => Carries multiple circuits from the distribution board
-
 - This sizing prevents overheating and allows future upgrades.
 
 ## Central Junction Point
-
 - A junction point is used to split circuits
-
 - Enables:
   - Clean branching to different rooms
   - Reduced wall chasing
   - Easier maintenance
-
-Prevents overloading a single conduit path
+- Prevents overloading a single conduit path
 
 ## Vertical and Horizontal Drops
 
@@ -102,3 +102,15 @@ Prevents overloading a single conduit path
   - Socket outlets
 - Horizontal runs are kept at uniform levels
 - This follows standard electrical installation practice and improves safety
+
+# Electrical Connectivity and Structural Layout Analysis
+<img width="855" height="543" alt="image" src="https://github.com/user-attachments/assets/ede3e5ec-88c6-4c4e-91af-432e411b6495" />
+- The drawing represents the electrical wiring layout of a multi-room building floor plan. It illustrates how power is distributed from a central distribution point to different electrical loads such as lighting fixtures, switches, and power outlets.
+- Key elements visible in the drawing include:
+  - Walls and structural partitions (red lines)
+  - Doors and openings (blue arcs)
+  - Switches (square boxes)
+  - Lighting points (circular symbols)
+  - power outlets / sockets
+  - Conduit routing paths (green lines)
+  - Electrical panel / distribution node
