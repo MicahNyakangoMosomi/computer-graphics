@@ -151,10 +151,11 @@ Home office,
   - User can control lights immediately upon entering the room
   - Minimizes wiring complexity.
   - Improves usability.
-#  piping system for the residential
+# piping system for the residential
 <img width="899" height="556" alt="image" src="https://github.com/user-attachments/assets/559b161f-5e76-4ec5-9895-a2cf342ebff6" />
-- This diagram illustrates a building drainage piping system designed to separate blackwater => toilet waste from greywater =>kitchen wastewater.
-- The main objective of this layout is:
+- This diagram illustrates a building drainage piping system designed to separate blackwater(toilet waste) from greywater (kitchen wastewater.)
+
+- The main objective of this layout is
   - Prevent cross-contamination
   - Improve treatment efficiency
   - Comply with sanitation and plumbing standards
