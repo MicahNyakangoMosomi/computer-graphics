@@ -1,3 +1,9 @@
+# Group Members 
+1. BSCCS/2023/72127 Micah Mosomi
+2. BSCCS/2023/64002 Deqa Yussuf
+3. BSCCS/2023/66604 Patrick Thairu
+4. BSCCS/2023/61733 Fatuma Abdullahi
+
 # Three-Bedroom Residential Floor Plan with Central Living Core
 <img width="938" height="633" alt="image" src="https://github.com/user-attachments/assets/e31755d6-488d-4a0d-8f16-228ab133f706" />
 
@@ -132,7 +138,7 @@ Home office,
   - Electrical panel / distribution node
  
   ## Conduit Routing Logic
-The green lines represent conduit paths for electrical wiring.
+- The green lines represent conduit paths for electrical wiring.
 
   ## Lighting Circuit Connectivity
 - Lighting points are represented by circular symbols connected by green lines.
@@ -147,7 +153,7 @@ The green lines represent conduit paths for electrical wiring.
   - Improves usability.
 #  piping system for the residential
 <img width="899" height="556" alt="image" src="https://github.com/user-attachments/assets/559b161f-5e76-4ec5-9895-a2cf342ebff6" />
-- This diagram illustrates a building drainage piping system designed to separate blackwater (toilet waste) from greywater (kitchen wastewater).
+- This diagram illustrates a building drainage piping system designed to separate blackwater => toilet waste from greywater =>kitchen wastewater.
 - The main objective of this layout is:
   - Prevent cross-contamination
   - Improve treatment efficiency
