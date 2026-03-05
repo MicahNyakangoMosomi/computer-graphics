@@ -111,8 +111,7 @@ Home office,
 
 - Symbol	            Device
 - Semi-circle near wall =>  	Wall socket switch
-- Double semi-circle => 	Power outlet
-- Lighting symbol => 	Ceiling light
+- circle symbol => 	Ceiling light
 - Square boxes => Junction boxes
 - Green lines => Electrical wiring paths
 ## some used symbols 
@@ -146,3 +145,25 @@ The green lines represent conduit paths for electrical wiring.
   - User can control lights immediately upon entering the room
   - Minimizes wiring complexity.
   - Improves usability.
+#  piping system for the residential
+<img width="899" height="556" alt="image" src="https://github.com/user-attachments/assets/559b161f-5e76-4ec5-9895-a2cf342ebff6" />
+- This diagram illustrates a building drainage piping system designed to separate blackwater (toilet waste) from greywater (kitchen wastewater).
+- The main objective of this layout is:
+  - Prevent cross-contamination
+  - Improve treatment efficiency
+  - Comply with sanitation and plumbing standards
+  - Enable easier maintenance and inspectio
+
+- The drainage network is divided into two primary waste streams:
+- ### Bathroom Waste Line (Blackwater System)
+  - This section collects discharge from:
+    - Bathroom floor drains
+    - toilet
+
+- the main aim is to safely convey highly contaminated wastewater without mixing with kitchen discharge.
+
+- ### Kitchen Waste Line (Greywater System)
+  - This section collects wastewater from:
+    - Kitchen sinks
+    - Floor traps
+
