@@ -62,6 +62,18 @@ Guest room,
 Home office,
 - The store room provides essential storage space
 - Helps maintain a clutter-free living environment
+- 
+## Technical Elements Visible
+- Yellow Blocks => Represent structural columns.
+
+- Red Lines => Interior walls.
+
+- White Lines => Exterior walls.
+
+- Blue Arcs => Door swing directions.
+
+- Green Drainage Lines => Represent a simple drainage piping layout.
+
 
 # Electrical Conduit and Wiring Layout for Residential Floor Plan
 <img width="683" height="470" alt="image" src="https://github.com/user-attachments/assets/7131cc88-5965-4505-82d6-3899c619bbea" />
