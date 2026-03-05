@@ -5,7 +5,7 @@
 4. BSCCS/2023/61733 Fatuma Abdullahi
 5. BSCCS/2023/62981 Jesse Jason
 
-# Three-Bedroom Residential Floor Plan with Central Living Core
+# Three-Bedroom Residential Floor Plan 
 <img width="938" height="633" alt="image" src="https://github.com/user-attachments/assets/e31755d6-488d-4a0d-8f16-228ab133f706" />
 
 ## Design Overview:
