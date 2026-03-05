@@ -68,7 +68,7 @@ Home office,
 
 - Red Lines => Interior walls.
 
-- White Lines => Exterior walls.
+- White Lines => Windows.
 
 - Blue Arcs => Door swing directions.
 
