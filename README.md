@@ -131,7 +131,7 @@ Home office,
 - Symbol	            Device
 - Semi-circle near wall =>  	Wall socket switch
 - circle symbol => 	Ceiling light
-- Square boxes => Junction boxes
+- Square boxes =>  Lighting with higher lumen count
 - Green lines => Electrical wiring paths
 ## some used symbols 
 <img width="473" height="644" alt="image" src="https://github.com/user-attachments/assets/76265b9f-6add-4ae5-a6bc-3a7eae792c14" />
@@ -144,7 +144,7 @@ Home office,
 - Key elements visible in the drawing include:
   - Walls and structural partitions (red lines)
   - Doors and openings (blue arcs)
-  - Switches (square boxes)
+  - Lighting with higher lumen count  (square boxes)
   - Lighting points (circular symbols)
   - power outlets / sockets
   - Conduit routing paths (green lines)
